@@ -2,7 +2,7 @@
 # 📌📌🤖CliNe.AI - Clickbait News Detector
 Chrome Extension
 
-![CliNe Logo](ui-ux_design/style_guide/banner_chrome.PNG)
+![CliNe Logo](ui-ux_design/style_guide/banner_chrome.png)
 
 CliNe is a Chrome extension and API that helps users identify clickbait news titles while browsing news websites. It utilizes natural language processing techniques to analyze news titles and provide real-time feedback on their clickbait nature.
 
