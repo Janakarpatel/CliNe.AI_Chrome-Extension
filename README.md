@@ -54,7 +54,7 @@ Contributions to CliNe.AI Chrome Extension are welcome and greatly appreciated!,
 - Submit a pull request to the main repository. Please ensure that your code adheres to the coding standards used in the project and includes tests where applicable. Also, be sure to provide a clear and detailed description of your changes in your pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgements
 We would like to express our gratitude to the creators of the GloVe word embeddings and the open-source libraries used in this project for their valuable contributions.
