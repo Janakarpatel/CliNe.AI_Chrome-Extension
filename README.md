@@ -48,10 +48,10 @@ We welcome contributions from the community. If you have any suggestions, bug re
 
 Contributions to CliNe.AI Chrome Extension are welcome and greatly appreciated!, please follow these steps:
 
-Fork the repository on GitHub.
-Create a new branch for your contribution.
-Make your changes and commit them to your branch.
-Submit a pull request to the main repository. Please ensure that your code adheres to the coding standards used in the project and includes tests where applicable. Also, be sure to provide a clear and detailed description of your changes in your pull request.
+- Fork the repository on GitHub.
+- Create a new branch for your contribution.
+- Make your changes and commit them to your branch.
+- Submit a pull request to the main repository. Please ensure that your code adheres to the coding standards used in the project and includes tests where applicable. Also, be sure to provide a clear and detailed description of your changes in your pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
