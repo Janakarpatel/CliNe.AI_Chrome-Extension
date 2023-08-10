@@ -30,7 +30,7 @@ Read **Installation guide** given in documentation and install it.
 
 
 ## Folder Structure
-- [code](code) Main code for API and Chrome Extension.
+- [CliNe API](https://github.com/Janakarpatel/CliNe_API)
 - [data](data) Contains the dataset and word embeddings.
 - [docs](docs) All the project-related documentations.
 - [models](models) Contains the trained model and weights.
