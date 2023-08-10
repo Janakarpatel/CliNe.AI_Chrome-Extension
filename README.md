@@ -19,7 +19,6 @@ By leveraging the power of machine learning, the CliNe project provides users wi
 
 ## Key Features
 - Real-time clickbait detection while browsing news websites.
-- Adjustable sensitivity levels for clickbait detection.
 - Pop-up alerts for identified clickbait titles.
 - Ability to report false positives or false negatives for continuous improvement.
 - Local deployment of the API for users who want to run it on their own devices.
@@ -27,7 +26,7 @@ By leveraging the power of machine learning, the CliNe project provides users wi
 ## Installation and Usage
 To use CliNe, follow the instructions below:
 Read **Installation guide** given in documentation and install it.
-- ![User Guide](/docs/CliNe_User%20Guide.pdf)
+- [User Guide](/docs/CliNe_User%20Guide.pdf)
 
 
 ## Folder Structure
@@ -46,6 +45,13 @@ Read **Installation guide** given in documentation and install it.
 
 ## Contributing
 We welcome contributions from the community. If you have any suggestions, bug reports, or feature requests, please submit them via the Issues section of this repository.
+
+Contributions to CliNe.AI Chrome Extension are welcome and greatly appreciated!, please follow these steps:
+
+Fork the repository on GitHub.
+Create a new branch for your contribution.
+Make your changes and commit them to your branch.
+Submit a pull request to the main repository. Please ensure that your code adheres to the coding standards used in the project and includes tests where applicable. Also, be sure to provide a clear and detailed description of your changes in your pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
