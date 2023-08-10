@@ -30,6 +30,7 @@ Read **Installation guide** given in documentation and install it.
 
 
 ## Folder Structure
+- [Code](code/chrome%20extension) Code of Chrome Extension
 - [CliNe API](https://github.com/Janakarpatel/CliNe_API)
 - [data](data) Contains the dataset and word embeddings.
 - [docs](docs) All the project-related documentations.
