@@ -27,7 +27,7 @@ By leveraging the power of machine learning, the CliNe project provides users wi
 ## Installation and Usage
 To use CliNe, follow the instructions below:
 Read **Installation guide** given in documentation and install it.
-- docs\CliNe_User Guide.pdf
+- ![User Guide](docs/CliNe_User Guide.pdf)
 
 
 ## Folder Structure
