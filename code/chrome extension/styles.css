@@ -1,0 +1,150 @@
+.wrapper {
+    /* Frame 1 */
+    position: relative;
+    width: 300px;
+    height: 450px;
+    background: #FFFFFF;    
+}
+
+.logo {
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 228px;
+    top: 62px;
+}
+
+.title {
+    /* .CliNe */
+    position: absolute;
+    left: 42px;
+    top: 47px;
+    width: 88px;
+    height: 48px;
+    font-family: 'Prompt';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 48px;
+    color: #2f88ff;
+}
+
+.subtitle {
+    /* Clickbait Detector */
+    position: absolute;
+    width: 90px;
+    height: 10px;
+    left: 42px;
+    top: 89px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 10px;
+    color: #000000;
+}
+
+.desc {
+    position: absolute;
+    width: 218px;
+    height: 168px;
+    left: 42px;
+    top: 126px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8px;
+    line-height: 12px;
+    color: #242424;
+}
+
+.desc span{
+    color: red;
+}
+
+.version {
+    /* Version 1.0 */
+    position: absolute;
+    width: 66px;
+    height: 13px;
+    left: 42px;
+    top: 410px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 13px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.logo1 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 241px;
+    top: 403px;
+}
+
+.line {
+    /* Line 1 */
+    position: absolute;
+    width: 218px;
+    height: 0px;
+    left: 42px;
+    top: 111px;
+    border: 1px solid #000000;
+}
+
+.copyright{
+    position: absolute;
+    width: 150px;
+    height: 8px;
+    left: 92px;
+    top: 432px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 5px;
+    line-height: 8px;
+    /* identical to box height */
+
+
+    color: #5B5B5B;
+}
+
+
+
+/* CSS */
+.button-54 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #2f88ff;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.20em 0.45em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+  position: relative;
+  margin-left: 40px;
+  margin-top: 370px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-54:active {
+    color: red;
+  box-shadow: 0px 0px 0px 0px;
+  top: 5px;
+  left: 5px;
+}
+
+@media (min-width: 768px) {
+  .button-54 {
+    padding: 0.25em 0.75em;
+  }
+}

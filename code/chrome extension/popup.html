@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Extension Popup</title>
+    <script type="module" src="content.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Poppins:wght@600&family=Prompt:wght@800&display=swap" rel="stylesheet">
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-eval';">
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <div id="output" class="wrapper">
+        
+        <button class="button-54" id="toggleBtn" role="button">Enable</button>
+        <!-- <button id="toggleBtn">Enable</button> -->
+        <div class="title">.CliNe</div>
+        <div class="subtitle">Clickbait Detector</div>
+        <div class="line">
+        </div>
+        <div class="desc">
+          <p>
+            Welcome to CliNe! With the CliNe Chrome extension installed, 
+            you can now easily identify clickbait news titles and avoid falling for sensationalized headlines.
+          </p>
+          <p>How to Use:   
+            To get started, simply navigate to your favorite news website and 
+              browse through the article. Click on the CliNe icon in your browser toolbar 
+              to bring up the pop-up window. The window will display whether the title is 
+              classified as clickbait or not, 
+              based on the machine learning algorithm integrated into the extension.
+          </p>
+          <span><p>If message is not shown, then click on the enable button and wait for at least 120 seconds and reload and try again. If it is still not working email us through github your problem,</p></span>
+          <p>
+            With CliNe, you can feel more confident in your news 
+            consumption and avoid being misled by exaggerated headlines. Happy browsing!
+          </p>  
+        </div>
+        <div class="footer">
+          <div class="version">Version 1.2</div>
+          <a href="https://github.com/Janakarpatel/CliNe.AI_Chrome-Extension" target="_blank">
+            <div class="logo1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="github"><path d="M7.999 0C3.582 0 0 3.596 0 8.032a8.031 8.031 0 0 0 5.472 7.621c.4.074.546-.174.546-.387 0-.191-.007-.696-.011-1.366-2.225.485-2.695-1.077-2.695-1.077-.363-.928-.888-1.175-.888-1.175-.727-.498.054-.488.054-.488.803.057 1.225.828 1.225.828.714 1.227 1.873.873 2.329.667.072-.519.279-.873.508-1.074-1.776-.203-3.644-.892-3.644-3.969 0-.877.312-1.594.824-2.156-.083-.203-.357-1.02.078-2.125 0 0 .672-.216 2.2.823a7.633 7.633 0 0 1 2.003-.27 7.65 7.65 0 0 1 2.003.271c1.527-1.039 2.198-.823 2.198-.823.436 1.106.162 1.922.08 2.125.513.562.822 1.279.822 2.156 0 3.085-1.87 3.764-3.652 3.963.287.248.543.738.543 1.487 0 1.074-.01 1.94-.01 2.203 0 .215.144.465.55.386A8.032 8.032 0 0 0 16 8.032C16 3.596 12.418 0 7.999 0z"></path></svg>
+            </div>
+          </a>
+        </div>
+        <div class="copyright">Copyright &#169 2023 CliNe, Inc. All rights reserved</div>
+        
+    </div>
+    <img class="logo" src="128.png"/>
+  </body>
+</html>
