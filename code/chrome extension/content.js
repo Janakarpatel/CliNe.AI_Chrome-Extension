@@ -8,7 +8,7 @@ chrome.storage.sync.get("isEnabled", (data) => {
     if (h1Element !== null) {
       const h1Text = h1Element.textContent;
 
-      fetch('https://clineclickbaitdetector.onrender.com/predict', {
+      fetch('https://127.0.0.1', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
